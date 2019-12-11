@@ -14,8 +14,8 @@ python setup.py install
 - **e1**: forecast errors from the first method
 - **e2**: forecast errors from the second method
 - **alternative**: str specifying the alternative hypothesis, 'two_sided' (default one), 'less' or 'greater'
-- **h**: forcasting horizon used in calculating errors (e1, e2)
-- **power**: power used in the loss function (usually 1 or 2)
+- **h**: forcasting horizon used in calculating errors (e1, e2), default value is 1
+- **power**: power used in the loss function (usually 1 or 2), default value is 2
     
 ## Return 
 Named tuple containing DM statistic and p-value:

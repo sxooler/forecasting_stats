@@ -41,7 +41,7 @@ setup(
     # },
     install_requires=REQUIRED,
     include_package_data=True,
-    license='gpl-3.0',
+    license='MIT',
     classifiers=[
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
