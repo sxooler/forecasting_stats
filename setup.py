@@ -9,7 +9,7 @@ from setuptools import find_packages, setup
 # Package meta-data.
 NAME = 'stat_test'
 DESCRIPTION = 'Stat tests for forecasting.'
-URL = 'https://gitlab.com/aiml/mlframework'
+URL = 'https://github.com/sxooler/forecasting_stats'
 EMAIL = 'yperetes@gmail.com'
 AUTHOR = 'Simon Ondracek'
 REQUIRES_PYTHON = '>=3.6.0'
